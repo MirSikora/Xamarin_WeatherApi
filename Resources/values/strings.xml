@@ -1,0 +1,15 @@
+<resources>
+	<string name="app_name">Xamarin_WeatherApi</string>
+	<string name="action_settings">Settings</string>
+	<string name="btn_change_text">Change the City</string>
+	<string name="textview_city_default">City name</string>
+	<string name="textview_weather_label">Weather:</string>
+	<string name="textview_temperature_label">Temperature:</string>
+	<string name="textview_wind_label">Wind:</string>
+	<string name="textview_precipitation_label">Precipitation:</string>
+	<string name="textview_city_ostrava">Ostrava</string>
+	<string name="textview_city_rovaniemi">Rovaniemi</string>
+	<string name="textview_city_rome">Rome</string>
+	<string name="textview_city_sydney">Sydney</string>
+	<string name="textview_city_reykjavik">Reykjavik</string>
+</resources>

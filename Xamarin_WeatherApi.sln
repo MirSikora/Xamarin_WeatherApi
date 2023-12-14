@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_WeatherApi", "Xamarin_WeatherApi.csproj", "{34D5A2A2-B7C2-46C2-8096-BE813E3ECF61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{268D32D4-A955-48C7-B51A-58EAC4D151F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForm", "WeatherForm\WeatherForm.csproj", "{34810721-655D-4564-B697-9DCA5CB06B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D5A2A2-B7C2-46C2-8096-BE813E3ECF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D5A2A2-B7C2-46C2-8096-BE813E3ECF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D5A2A2-B7C2-46C2-8096-BE813E3ECF61}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{34D5A2A2-B7C2-46C2-8096-BE813E3ECF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D5A2A2-B7C2-46C2-8096-BE813E3ECF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D5A2A2-B7C2-46C2-8096-BE813E3ECF61}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{268D32D4-A955-48C7-B51A-58EAC4D151F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268D32D4-A955-48C7-B51A-58EAC4D151F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268D32D4-A955-48C7-B51A-58EAC4D151F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268D32D4-A955-48C7-B51A-58EAC4D151F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34810721-655D-4564-B697-9DCA5CB06B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34810721-655D-4564-B697-9DCA5CB06B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34810721-655D-4564-B697-9DCA5CB06B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34810721-655D-4564-B697-9DCA5CB06B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C32D1A-0DE2-4E8E-BAE6-D6A74AF4626C}
+	EndGlobalSection
+EndGlobal
